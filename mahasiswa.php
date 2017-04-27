@@ -7,7 +7,10 @@ class mahasiswa
 
 	public tambah(){
 		return true;
-	} 
+	}
+	public function hapus(){
+		return true;
+	}
 
 	}
 
