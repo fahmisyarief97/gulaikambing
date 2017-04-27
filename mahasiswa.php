@@ -7,7 +7,11 @@ class mahasiswa
 
 	public tambah(){
 		return true;
-	} 
+	}
+	public function ubah(){
+		return true;
+	}
+	
 
 	}
 
