@@ -9,9 +9,15 @@ class mahasiswa
 		return true;
 
 	} 
-public function lihatprofil(){
-	return true;
-}
+	public function gantifoto(){
+		return true;
+	}
+
+
+	} 
+	public function lihatprofil(){
+		return true;
+	}
 	}
 
 
