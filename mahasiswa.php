@@ -8,9 +8,16 @@ class mahasiswa
 	public tambah(){
 		return true;
 	}
+
 	public function gantifoto(){
 		return true;
 	}
+
+	public function ubah(){
+		return true;
+	}
+	
+
 
 
 	}
